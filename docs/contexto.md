@@ -1,4 +1,5 @@
-#Contexto do Sistema
+
+Contexto do Sistema
 
 A Orion Capital é uma corretora fictícia que opera uma plataforma digital de negociação de ações, ETFs e fundos imobiliários. Hoje, suas operações dependem de sistemas pouco integrados, o que dificulta a rastreabilidade das ordens, o controle de risco e a auditoria.
 
