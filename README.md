@@ -1,19 +1,18 @@
 # projeto.1-sentinel-trade
 
 	Felipe Dias Leite 10741263		
-	
 	Rebeca da Rocha Carnaúba da Silva 10723463
 
 # SentinelTrade
 
 Sistema de trade financeiro de alta criticidade, especificado e modelado para a corretora fictícia *Orion Capital*.
 
-## Sobre o projeto
+## Sobre o projeto:
 
 O SentinelTrade permite que investidores autorizados acompanhem cotações, mantenham sua carteira de ativos, enviem ordens de compra e venda e consultem o histórico de operações.
 A Orion Capital hoje depende de sistemas pouco integrados, o que dificulta a rastreabilidade das ordens, o controle de risco e a auditoria. O SentinelTrade resolve isso como uma plataforma distribuída, segura, escalável e tolerante a falhas.
 
-## Funcionalidades
+## Funcionalidades:
 
 - Autenticação com MFA
 - Gestão de investidores, contas, carteiras, ativos e limites financeiros
