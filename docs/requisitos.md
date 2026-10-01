@@ -1,4 +1,4 @@
-## REQUISITOS FUNCIONAIS
+##         REQUISITOS FUNCIONAIS
 
 | ID | Requisito | Descrição |
 |---|---|---|
@@ -17,7 +17,7 @@
 | RF13 | Carteira de ativos | Manter e atualizar posições e saldo após cada execução. |
 
 
-## REQUISITOS NÃO FUNCIONAIS 
+##       REQUISITOS NÃO FUNCIONAIS 
 
 | ID | Categoria | Requisito |
 |---|---|---|
