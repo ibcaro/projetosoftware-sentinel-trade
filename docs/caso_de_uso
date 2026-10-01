@@ -1,5 +1,3 @@
-casos de uso 
-
 ## 3. Validar Saldo e Risco
 1. Ator Primário: Sistema (incluído por "Enviar Ordem")
 2. Pré-condições: Ordem recebida com ativo, quantidade e preço.
