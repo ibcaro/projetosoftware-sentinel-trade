@@ -1,7 +1,8 @@
 # projeto.1-sentinel-trade
 
-Felipe Dias Leite 10741263
-Rebeca da Rocha Carnaúba da Silva 10723463
+	Felipe Dias Leite 10741263		
+	
+	Rebeca da Rocha Carnaúba da Silva 10723463
 
 # SentinelTrade
 
