@@ -33,6 +33,6 @@
 2. O sistema busca os registros e os exibe, somente leitura.
 3. O sistema registra a própria consulta no log de auditoria.
 
-### Fluxos Alternativos:
+###  Fluxos Alternativos:
 1. Nenhum registro encontrado: o sistema informa que não há resultados.
 2. Acesso não autorizado: o sistema nega o acesso e registra a tentativa.
